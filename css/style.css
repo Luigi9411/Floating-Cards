@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    max-width: 1000px;
+    color: #E53170 ;
+    margin:  auto;
+    text-align: center;
+    margin-top: 15px;
+}
+/* main */
+.conteiner{
+    max-width: 1000px;
+    margin: 15px auto;
+}
+
+.riga{
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    width: 90px;
+    background-size: contain;
+}
+
+.col{
+    width: 300px;
+    height: 94px;
+    margin-right: 2rem;
+    margin-top: 2rem;
+    float: left;
+    background-color: #0f0e17;
+    border: 2px solid rgba(255, 255, 255, 0.879);
+    
+}
+
+h2{
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.testo{
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 204, 255);
+}
+
+.sotto{
+    float: right;
+    width: 200px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
