@@ -30,12 +30,12 @@ img{
 
 .col{
     width: 300px;
-    height: 94px;
+    height: 90px;
     margin-right: 2rem;
     margin-top: 2rem;
     float: left;
     background-color: #0f0e17;
-    border: 2px solid rgba(255, 255, 255, 0.879);
+   box-shadow: 2px 2px 2px gray;
     
 }
 
